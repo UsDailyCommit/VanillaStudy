@@ -13,3 +13,4 @@
 - update : 내용 추가
 
 ---
+<a href="https://kill-xxx.tistory.com/entry/JS-throw%EB%AC%B8%EC%9C%BC%EB%A1%9C-%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0">throw문</>
